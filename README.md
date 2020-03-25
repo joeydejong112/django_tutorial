@@ -1,1 +1,1 @@
-django_tutorial
+Phyton tutorial elo
